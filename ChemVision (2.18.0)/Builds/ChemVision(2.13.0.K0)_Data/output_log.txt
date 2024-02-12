@@ -1,0 +1,86 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.8871
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\Google.ProtocolBuffers.dll (this message is harmless)
+Loading D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\Google.ProtocolBuffers.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Documents\- Unity Projects -\ChemVision (2.12.0)\Builds\ChemVision(2.13.0.K0)_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 144Hz; virtual: 5760x1080 at -1920,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Persistant Object Prefab') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 1.976378 ms
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Persistant Object Prefab') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Persistant Object Prefab') is missing!
+ 
+(Filename:  Line: 1754)
+
+CVE [VR Controller] | Question text file not set!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CVE [VR Controller] | Information text file not set!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 344c -> priority: 1 
+  Thread -> id: 3f30 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.423739 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1127.
+Total: 1.286515 ms (FindLiveObjects: 0.044300 ms CreateObjectMapping: 0.027912 ms MarkObjects: 0.471432 ms  DeleteObjects: 0.742614 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.247304 ms
+CVE [VR Controller] | Question text file not set!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CVE [VR Controller] | Information text file not set!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 762.
+Total: 1.230434 ms (FindLiveObjects: 0.036362 ms CreateObjectMapping: 0.027143 ms MarkObjects: 0.379245 ms  DeleteObjects: 0.787427 ms)
+
+CVE [PersistantData] | C:/Users/kaleb/AppData/LocalLow/ChemVision/ChemVision (2_13_0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CVE [PersistantData] | C:/Users/kaleb/AppData/LocalLow/ChemVision/ChemVision (2_13_0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

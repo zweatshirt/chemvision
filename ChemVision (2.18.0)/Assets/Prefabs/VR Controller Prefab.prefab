@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1867208339292532
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4379155574237908}
+  - component: {fileID: 114320225610707484}
+  - component: {fileID: 114122111872736342}
+  m_Layer: 0
+  m_Name: VR Controller Prefab
+  m_TagString: '- VR Controller -'
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4379155574237908
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1867208339292532}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114320225610707484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1867208339292532}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2962e26b39b23cc49a22b35ff5f787a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gvrViewerMain: {fileID: 177758, guid: 970dd4b9371394fb4890965f608d46fd, type: 3}
+  eventSystem: {fileID: 1592695493357956, guid: f7ee389b164493c4da836d9c1fdca259, type: 3}
+  persistantObject: {fileID: 1911037599117662, guid: a72b37cfdc2514b438958a9b5e3a0d9d, type: 3}
+  INFO_PREFAB: {fileID: 1714223858093432, guid: 8abc8c05164e6e64689353ac862f73a6, type: 3}
+  EMPTY_PREFAB: {fileID: 1723194962208762, guid: 6e2bd08c323db49469ccd5e0a7d4c0ff, type: 3}
+  QUESTION_PREFAB: {fileID: 1355101544930224, guid: 6216007043f7e1b4a817e210fbd53358, type: 3}
+  playerVR_Prefab: {fileID: 1527732816398404, guid: 5e324d678e3139f448cf1a5d299c4e70, type: 3}
+  playerNon_Prefab: {fileID: 1871993929594282, guid: 84c663f93ed982548b7e3ed999831255, type: 3}
+  informationTextFile: {fileID: 0}
+  questionTextFile: {fileID: 0}
+  playerPosition: {x: 0, y: 20, z: 0}
+  playerRotationY: 0
+  letPlayerMove: 1
+  player: {fileID: 0}
+  terrain: {fileID: 0}
+  persistantDataScript: {fileID: 0}
+  vrPlayerControllerScript: {fileID: 0}
+  nonVRPlayerControllerScript: {fileID: 0}
+  gvrReticleScript: {fileID: 0}
+  mainCamera: {fileID: 0}
+--- !u!114 &114122111872736342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1867208339292532}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 084860519978c51488dcbecfa5316a15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

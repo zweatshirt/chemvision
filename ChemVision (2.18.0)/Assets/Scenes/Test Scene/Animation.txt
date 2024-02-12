@@ -1,0 +1,19 @@
+GameObject=Animation Cube
+Move=-100, 35, 100, .5
+Move=-100, 65, 100, 1
+Pause=1
+Move=-100, 65, 70, .5
+Rotate=-45,0,0,1
+Rotate=-45,45,0,1
+Pause=3
+Move=-100, 95, 70, 0
+Move=-130, 95, 70, 1
+
+GameObject=Animation Sphere
+Move=-100, 35, 80, .5
+Move=-100, 75, 80, 1
+Pause=2
+Move=-100, 40, 35, .75
+Move=-100, 100, 60, .75
+Pause=1
+Move=-130, 100, 70, .5
