@@ -1,6 +1,10 @@
 # ChemVision
 
 - VR chemistry learning environment for classrooms.
+- Aids students in spatial learning about objects such as:
+      1. Molecules
+      2. Chemicals and chemical bonds
+      3. Proteins
 
 ## Team members:
 
@@ -8,14 +12,12 @@
 - Alexander McKinney
 - Zachery Linscott (zweatshirt)
 
-Originally spearheaded by alumn Kaleb Cole.
+Originally spearheaded by Southern Illinois University Edwardsville (SIUe) alumn Kaleb Cole.
+Idea proposed by professor Michael Shaw at SIUe.
 
-## Project Goal:
+## Project Goal(s):
 
-- The goal of this project since the start has been to create an interactive VR learning environment for students.
-This idea was proposed by professor Michael Shaw at Southern Illinois University Edwardsville
-- Our goal is to update this project to a working state again and improve it by:
-    1. potentially adding more functionality.
-    2. adding AR functionality.
-but improve upon it by changing from Google VR to Google Cardboard compatibility,
-adding more features, and potentially switching to augmented reality.
+- Update this project to a working state again and improve it by:
+    1. migrating from GoogleVR to Google Cardboard.
+    2. potentially adding more functionality.
+    3. adding AR functionality to create a 'museum' of 3D chemicals, moleules, and proteins.
