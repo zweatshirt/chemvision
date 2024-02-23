@@ -2,9 +2,9 @@
 
 - VR chemistry learning environment for classrooms.
 - Aids students in spatial learning about objects such as:
-      1. Molecules
-      2. Chemicals and chemical bonds
-      3. Proteins
+    1. Molecules
+    2. Chemicals and chemical bonds
+    3. Proteins  
 
 ## Team members:
 
